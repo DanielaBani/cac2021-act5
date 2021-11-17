@@ -1,0 +1,130 @@
+.nav-1 {
+    background-color: #34393F;
+}
+
+#link-verde{
+    color: #397A4E;
+}
+
+#honolulu{
+    background-color: #353A40;
+    color: white;
+    
+}
+
+#honolulu>h2{
+    font-weight: 600;
+
+}
+
+.footer {
+    background-color: #1d4358;
+    margin-top: 15px;
+    padding: 20px 0;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer-col {
+    width: 14.28%;
+    padding: 0 15px;
+}
+
+.footer-col a {
+    font-size: 16px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 450;
+    display: block;
+    transition: all 0.3s ease;
+}
+
+.footer-col a:hover {
+    color: #fff;
+    padding-left: 5px;
+}
+
+.oneline {
+    padding-top: 10px;
+}
+
+#col-azul{
+    border-color: royalblue;
+}
+.btn-codo {
+  background-color: #97c93e;
+  color: white;
+}
+
+.btn-codo:hover {
+  background-color: #82ad36;
+} 
+
+.btn-verde{
+  width: 100%;
+  background-color:#96C93E;
+  border-color: rgba(0, 0, 0,0);
+  color: white;
+  height: 50px;
+}
+
+.card-categorias{
+  padding: 0.1%;
+  border-color: white;
+}
+
+
+
+/*Tabla Precios*/
+
+
+div.tabla-precio {
+  border: 1px solid #e1e1e1;
+  background-color: #ffffff;
+  padding: 40px 0;
+  text-align: center;
+  
+}
+
+div.tabla-precio ul li {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 14px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    color: #868686;
+    line-height: 26px;
+}
+div.tabla-precio ul li:before {
+  font-family: 'FontAwesome';
+  display: inline-block;
+  vertical-align: top;
+  padding: 0 5px;
+  font-size: 20px;
+  color: green;
+  
+}
+div.tabla-precio h3 {
+  font-family: 'Oswald', sans-serif;
+  font-size:16px;
+  text-transform: uppercase;
+}
+div.tabla-precio p.numero {
+  color: #000000;
+  margin: 20px 0;
+}
+
+div.extras div.orden {
+  text-align: left;
+  margin-bottom: 10px;
+}
+div.extras div.orden input {
+margin: 10px 0 0 0 ;    
+}
+
+.card {
+  display: inline-block;
+}
+
